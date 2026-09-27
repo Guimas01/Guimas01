@@ -1,3 +1,4 @@
+<img width="640" height="412" alt="Sala" src="https://github.com/user-attachments/assets/548b72cf-0084-4e4c-9979-95a2eaa41192" />
 # Oi, eu sou o Guilherme 👋
 
 Estou começando minha trajetória em programação e construindo minha base, um problema de cada vez.
