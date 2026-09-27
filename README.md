@@ -1,8 +1,8 @@
-<img width="640" height="412" alt="Sala" src="https://github.com/user-attachments/assets/548b72cf-0084-4e4c-9979-95a2eaa41192" />
+<img width="1080" height="612" alt="Day" src="https://github.com/user-attachments/assets/00307f49-31d7-43e7-9a64-2cfee2ce2d0d" />
 
-# Oi, eu sou o Guilherme 👋
+# Oi, eu sou o Guilherme Coutinho 👋
 
-Estou começando minha trajetória em programação e construindo minha base, um problema de cada vez.
+Estou começando minha trajetória em programação, construindo minha base, um problema de cada vez.
 
 Este espaço acompanha meu aprendizado: exercícios, trabalhos da faculdade e projetos pessoais — incluindo as dificuldades e descobertas pelo caminho.
 
